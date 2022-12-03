@@ -5,14 +5,12 @@
    <a href="https://github.com/mgckaled">
       <img alt="Made by mgckaled" src="https://img.shields.io/badge/made%20by-mgckaled-yellow">
    </a>
-   <img alt="GitHub Repo Size" src="https://img.shields.io/github/repo-size/mgckaled/rocketseat-nlw_10-copa">
-   <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/mgckaled/rocketseat-nlw_10-copa">
-   <a href="https://github.com/mgckaled/rocketseat-nlw_10-copa/commits/main">
-      <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/mgckaled/rocketseat-nlw_10-copa">
+   <img alt="GitHub Repo Size" src="https://img.shields.io/github/repo-size/mgckaled/ignite-reactnative_fundamentos">
+   <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/mgckaled/ignite-reactnative_fundamentos">
+   <a href="https://github.com/mgckaled/ignite-reactnative_fundamentos/commits/main">
+      <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/mgckaled/ignite-reactnative_fundamentos">
    </a>
-   <a href="https://github.com/mgckaled/rocketseat-nlw_10-copa/issues">
-      <img alt="GitHub Issues" src="https://img.shields.io/github/issues/mgckaled/rocketseat-nlw_10-copa">
-   </a>
+   <img alt="license" src="https://img.shields.io/github/license/mgckaled/ignite-reactnative_fundamentos">
   
 </div>
 
