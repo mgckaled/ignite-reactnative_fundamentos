@@ -51,7 +51,7 @@ O projeto elaborado pela Rocketseat Education aborda os Fundamentos do React Nat
 ## Layout
 
 O layout das telas da aplicação **Im Here** foi desenvolvido pela equipe da **Rocketseat** através da ferramenta [**Figma**](https://www.figma.com).
-Você pode acessar o layout através deste link: [**I here**](https://www.figma.com/file/gQSISUSw1Akqxu1IgG1164/Chapter-I---Im-Here).
+Você pode acessar o layout através deste link: [**Im here**](https://www.figma.com/file/gQSISUSw1Akqxu1IgG1164/Chapter-I---Im-Here).
 
 ## Configurações
 
@@ -72,11 +72,11 @@ Clonar repositório:
 
 ```bash
 # Execute o comando git clone para realizar o clone do repositório
-$ git clone https://github.com/mgkclaed/rocketseat-nlw_10-copa.git
+$ git clone https://github.com/mgkclaed/ignite-reactnative_fundamentos.git
 # ou execute
-$ gh repo clone mgckaled/rocketseat-nlw_10-copa
+$ gh repo clone mgckaled/ignite-reactnative_fundamentos
 # Entre na pasta do repositório clonado
-$ cd rocketseat-nlw_10-copa
+$ cd ignite-reactnative_fundamentos
 ```
 
 Dependências e inicialização:
