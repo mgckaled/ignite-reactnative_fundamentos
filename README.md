@@ -33,7 +33,6 @@
 <div align="center">
 
 [**Sobre o Projeto**](#sobre-o-projeto) &nbsp;&nbsp;**•**&nbsp;&nbsp;
-[**Tecnologias**](#tecnologias) &nbsp;&nbsp;**•**&nbsp;&nbsp;
 [**Layout**](#layout) &nbsp;&nbsp;**•**&nbsp;&nbsp;
 [**Configurações**](#configurações) &nbsp;&nbsp;**•**&nbsp;&nbsp;
 [**Como contribuir**](#como-contribuir) &nbsp;&nbsp;**•**&nbsp;&nbsp;
@@ -46,7 +45,22 @@
 
 O projeto elaborado pela Rocketseat Education aborda os Fundamentos do React Native através do desenvolvimento do app **Im Here**.
 
-## Tecnologias
+Na tabela abaixo estão os links dos principais temas do React Native estudados neste projeto complexidade básica.
+
+|        Temas         | Links                                                         |
+| :------------------: | :------------------------------------------------------------ |
+| `Intro React Native` | <https://reactnative.dev/docs/intro-react-native-components>  |
+|    `Fast Refresh`    | <https://reactnative.dev/docs/fast-refresh>                   |
+|        `.jsx`        | <https://reactnative.dev/docs/intro-react#jsx>                |
+|       `LogBox`       | <https://reactnative.dev/blog/2020/07/06/version-0.63#logbox> |
+|       `style`        | <https://reactnative.dev/docs/style>                          |
+|     `StyleSheet`     | <https://reactnative.dev/docs/stylesheet>                     |
+|     `PixelRatio`     | <https://reactnative.dev/docs/pixelratio>                     |
+|       `Hooks`        | <https://reactjs.org/docs/hooks-intro.html>                   |
+|    `async Hooks`     | <https://beta.reactjs.org/learn/state-as-a-snapshot>          |
+|     `Debbuging`      | <https://reactnative.dev/docs/debugging>                      |
+
+Componentes nativos do React Native estudados nesse projeto: [`View`](https://reactnative.dev/docs/view), [`Text`](https://reactnative.dev/docs/text), [`TextInput`](https://reactnative.dev/docs/textinput) (Form), [`TouchableOpacity`](https://reactnative.dev/docs/touchableopacity) (Button), [`StatusBar`](https://reactnative.dev/docs/statusbar), [`Alert`](https://reactnative.dev/docs/Alert), [`ScrollView`](https://reactnative.dev/docs/ScrollView), [`Flatlist`](https://reactnative.dev/docs/FlatList).
 
 ## Layout
 
